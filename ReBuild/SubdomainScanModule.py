@@ -15,4 +15,4 @@ def subDomainScan(d,dict):
 		print test_payload
 
 if __name__ == '__main__':
-	subDomainScan('360.cn','dic.txt')
+	subDomainScan('test.cn','dic.txt')
